@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/devel
+
+Name: sensor_recorder
+Description: Description of sensor_recorder
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/art/art-meta/devel/lib 
+Requires: 

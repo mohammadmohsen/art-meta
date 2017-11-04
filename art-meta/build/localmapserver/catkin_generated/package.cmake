@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "localmapserver")
+set(localmapserver_MAINTAINER "art <art@utra.ca>")
+set(localmapserver_DEPRECATED "")
+set(localmapserver_VERSION "0.0.0")
+set(localmapserver_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(localmapserver_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(localmapserver_BUILDTOOL_DEPENDS "catkin")

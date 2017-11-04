@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/art/art-meta/src/LMS1xx-master/include/LMS1xx/LMS1xx.h
+string
+-
+stdint.h
+-
+
+/home/art/art-meta/src/LMS1xx-master/src/LMS1xx.cpp
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+unistd.h
+-
+iostream
+-
+LMS1xx/LMS1xx.h
+/home/art/art-meta/src/LMS1xx-master/src/LMS1xx/LMS1xx.h
+console_bridge/console.h
+/home/art/art-meta/src/LMS1xx-master/src/console_bridge/console.h
+

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "flagdetection_node")
+set(flagdetection_node_MAINTAINER "art <art@mail.utoronto.ca>")
+set(flagdetection_node_DEPRECATED "")
+set(flagdetection_node_VERSION "0.0.0")
+set(flagdetection_node_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation")
+set(flagdetection_node_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime")
+set(flagdetection_node_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/devel
+
+Name: flagdetection_node
+Description: Description of flagdetection_node
+Version: 0.0.0
+Cflags: -I/home/art/art-meta/devel/include -I/home/art/art-meta/src/flagdetection_node/include
+Libs: -L/home/art/art-meta/devel/lib 
+Requires: message_runtime

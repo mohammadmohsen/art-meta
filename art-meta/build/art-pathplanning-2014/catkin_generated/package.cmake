@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "path_planner")
+set(path_planner_MAINTAINER "art <art@mail.utoronto.ca>")
+set(path_planner_DEPRECATED "")
+set(path_planner_VERSION "0.0.0")
+set(path_planner_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(path_planner_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(path_planner_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/devel
+
+Name: primes_tutorial
+Description: Description of primes_tutorial
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/art/art-meta/devel/lib 
+Requires: 

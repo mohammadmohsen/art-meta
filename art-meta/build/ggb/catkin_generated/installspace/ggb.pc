@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/install
+
+Name: ggb
+Description: Description of ggb
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/art/art-meta/install/lib 
+Requires: 

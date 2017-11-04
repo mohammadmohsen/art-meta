@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "sensor_recorder")
+set(sensor_recorder_MAINTAINER "art <art@mail.utoronto.ca>")
+set(sensor_recorder_DEPRECATED "")
+set(sensor_recorder_VERSION "0.0.0")
+set(sensor_recorder_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(sensor_recorder_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(sensor_recorder_BUILDTOOL_DEPENDS "catkin")

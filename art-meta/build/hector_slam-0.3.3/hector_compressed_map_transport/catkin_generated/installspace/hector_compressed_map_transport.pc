@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/install
+
+Name: hector_compressed_map_transport
+Description: Description of hector_compressed_map_transport
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/art/art-meta/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/install
+
+Name: serial
+Description: Description of serial
+Version: 1.2.0
+Cflags: -I/home/art/art-meta/install/include
+Libs: -L/home/art/art-meta/install/lib -lserial
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kalman_filter")
+set(kalman_filter_MAINTAINER "art <art@todo.todo>")
+set(kalman_filter_DEPRECATED "")
+set(kalman_filter_VERSION "0.0.0")
+set(kalman_filter_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(kalman_filter_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(kalman_filter_BUILDTOOL_DEPENDS "catkin")

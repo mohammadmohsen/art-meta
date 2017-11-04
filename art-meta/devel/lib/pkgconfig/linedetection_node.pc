@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/devel
+
+Name: linedetection_node
+Description: Description of linedetection_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/art/art-meta/devel/lib 
+Requires: 

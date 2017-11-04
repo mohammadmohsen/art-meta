@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/devel
+
+Name: calibration
+Description: Description of calibration
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/art/art-meta/devel/lib 
+Requires: 

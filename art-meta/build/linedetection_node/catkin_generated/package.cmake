@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "linedetection_node")
+set(linedetection_node_MAINTAINER "art <art@mail.utoronto.ca>")
+set(linedetection_node_DEPRECATED "")
+set(linedetection_node_VERSION "0.0.0")
+set(linedetection_node_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "vision")
+set(linedetection_node_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(linedetection_node_BUILDTOOL_DEPENDS "catkin")

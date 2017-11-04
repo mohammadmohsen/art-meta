@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "gps")
+set(gps_MAINTAINER "art <art@mail.utoronto.ca>")
+set(gps_DEPRECATED "")
+set(gps_VERSION "0.0.0")
+set(gps_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(gps_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(gps_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/devel
+
+Name: vision
+Description: Description of vision
+Version: 0.0.0
+Cflags: -I/home/art/art-meta/src/vision/include
+Libs: -L/home/art/art-meta/devel/lib 
+Requires: 

@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/art/art-meta/src
+# Build directory: /home/art/art-meta/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+SUBDIRS(gtest)
+SUBDIRS(hector_slam-0.3.3/hector_slam)
+SUBDIRS(hector_slam-0.3.3/hector_slam_launch)
+SUBDIRS(serial)
+SUBDIRS(hector_slam-0.3.3/hector_map_tools)
+SUBDIRS(hector_slam-0.3.3/hector_nav_msgs)
+SUBDIRS(vision)
+SUBDIRS(calibration)
+SUBDIRS(flagdetection_node)
+SUBDIRS(ggb)
+SUBDIRS(gps)
+SUBDIRS(hector_slam-0.3.3/hector_geotiff)
+SUBDIRS(hector_slam-0.3.3/hector_geotiff_plugins)
+SUBDIRS(hector_slam-0.3.3/hector_marker_drawing)
+SUBDIRS(imu)
+SUBDIRS(kalman_filter)
+SUBDIRS(linedetection_node)
+SUBDIRS(LMS1xx-master)
+SUBDIRS(localmapserver)
+SUBDIRS(art-motorcommands)
+SUBDIRS(art-pathplanning-2014)
+SUBDIRS(primes_tutorial)
+SUBDIRS(hector_slam-0.3.3/hector_compressed_map_transport)
+SUBDIRS(sensor_recorder)
+SUBDIRS(art-status-2014)
+SUBDIRS(hector_slam-0.3.3/hector_imu_attitude_to_tf)
+SUBDIRS(hector_slam-0.3.3/hector_imu_tools)
+SUBDIRS(hector_slam-0.3.3/hector_map_server)
+SUBDIRS(hector_slam-0.3.3/hector_trajectory_server)
+SUBDIRS(hector_slam-0.3.3/hector_mapping)

@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/install
+
+Name: vision
+Description: Description of vision
+Version: 0.0.0
+Cflags: -I/home/art/art-meta/install/include
+Libs: -L/home/art/art-meta/install/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ggb")
+set(ggb_MAINTAINER "art <art@todo.todo>")
+set(ggb_DEPRECATED "")
+set(ggb_VERSION "0.0.0")
+set(ggb_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "serial")
+set(ggb_RUN_DEPENDS "serial" "roscpp" "rospy" "std_msgs")
+set(ggb_BUILDTOOL_DEPENDS "catkin")

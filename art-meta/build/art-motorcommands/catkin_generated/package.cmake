@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "motor_driver")
+set(motor_driver_MAINTAINER "art <art@mail.utoronto.ca>")
+set(motor_driver_DEPRECATED "")
+set(motor_driver_VERSION "0.0.0")
+set(motor_driver_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(motor_driver_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(motor_driver_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/art/art-meta/install
+
+Name: hector_imu_tools
+Description: Description of hector_imu_tools
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/art/art-meta/install/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libLineDetectionThresholding.so -o /home/art/art-meta/devel/lib/libLineDetectionThresholding.so CMakeFiles/LineDetectionThresholding.dir/src/vision/Clusters.cpp.o CMakeFiles/LineDetectionThresholding.dir/src/vision/linear_transform.cpp.o CMakeFiles/LineDetectionThresholding.dir/src/vision/lib_line_detection.cpp.o 

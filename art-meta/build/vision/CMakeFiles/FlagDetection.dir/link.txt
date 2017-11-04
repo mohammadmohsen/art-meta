@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libFlagDetection.so -o /home/art/art-meta/devel/lib/libFlagDetection.so CMakeFiles/FlagDetection.dir/src/vision/lib_flag_detection.cpp.o 
